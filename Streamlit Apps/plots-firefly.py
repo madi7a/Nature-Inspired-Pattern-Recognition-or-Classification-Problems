@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load Firefly Algorithm history CSV
-csv_path = "../Results/firefly_algorithm_history.csv"  # Ensure this CSV is in the same directory or update the path
+csv_path = "Results/firefly_algorithm_history.csv"  # Ensure this CSV is in the same directory or update the path
 
 st.title("Firefly Algorithm Explorer")
 
