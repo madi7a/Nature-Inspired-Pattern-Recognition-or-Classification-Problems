@@ -8,7 +8,7 @@ This project explores nature-inspired optimization algorithms for tuning hyperpa
 - Simulated Annealing (SA)
 - Whale Optimization Algorithm (WOA)
 - Firefly Algorithm
-- Two hybrid approaches
+- Three hybrid approaches
 - Multiple Streamlit-based interactive dashboards
 
 
